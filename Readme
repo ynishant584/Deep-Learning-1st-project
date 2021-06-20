@@ -1,0 +1,7 @@
+Image Classification - Deep Learning project in Python using Keras
+
+Built a convolution neural network in Keras with python on a 
+CIFAR-10 dataset
+- Explored the dataset, and then trained our neural network 
+  model using python and Keras.
+- Ended up in getting accuracy of 70 percent
